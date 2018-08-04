@@ -1,6 +1,6 @@
 # GPL
 
-**G**rauwoelfchen's dvorak based **P**lanck keyboard **L**ayout.
+**G**rauwoelfchen's dvorak layout for **P****L**anck keyboard.
 
 
 ```text
@@ -26,21 +26,29 @@
 % make dfu
 ```
 
-## Ref.
+## References
 
 * [Keycode](https://github.com/jackhumbert/qmk_firmware/blob/master/doc/keycode.txt)
 * [Dvorak keymap](https://github.com/jackhumbert/qmk_firmware/blob/master/quantum/keymap_extras/keymap_dvorak.h)
 
 
+## Links
+
+* [grauwoelfchen/ghc](https://github.com/grauwoelfchen/ghc)
+* [qmk/qmk_firmware (atreus)](https://github.com/qmk/qmk_firmware/tree/master/keyboards/atreus)
+
+
 ## License
 
-GNU GPL v3
+`GPL-3.0`
 
 See also: [qmk_firmware](https://github.com/jackhumbert/qmk_firmware) project.
 
 
+```
 GPL  
 Copyright (c) 2016 Yasuhiro Asaka
+```
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
