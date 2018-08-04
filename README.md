@@ -1,6 +1,6 @@
 # GPL
 
-**G**rauwoelfchen's dvorak layout for **P****L**anck keyboard.
+**G**rauwoelfchen's dvorak layout for **PL**anck keyboard.
 
 
 ```text
